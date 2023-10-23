@@ -1,0 +1,75 @@
+('D:\\Documents\\Python Pract\\Excel '
+ 'Automation\\build\\excel_automation\\excel_automation.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'D:\\Documents\\Python Pract\\Excel '
+   'Automation\\build\\excel_automation\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'D:\\Documents\\Python Pract\\Excel '
+   'Automation\\build\\excel_automation\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\Documents\\Python Pract\\Excel '
+   'Automation\\build\\excel_automation\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\Documents\\Python Pract\\Excel '
+   'Automation\\build\\excel_automation\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\Documents\\Python Pract\\Excel '
+   'Automation\\build\\excel_automation\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\Documents\\Python Pract\\Excel '
+   'Automation\\build\\excel_automation\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'D:\\Documents\\Python Pract\\Excel '
+   'Automation\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'D:\\Documents\\Python Pract\\Excel '
+   'Automation\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'D:\\Documents\\Python Pract\\Excel '
+   'Automation\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'D:\\Documents\\Python Pract\\Excel '
+   'Automation\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'D:\\Documents\\Python Pract\\Excel '
+   'Automation\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'D:\\Documents\\Python Pract\\Excel '
+   'Automation\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'D:\\Documents\\Python Pract\\Excel '
+   'Automation\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('excel_automation',
+   'D:\\Documents\\Python Pract\\Excel Automation\\excel_automation.py',
+   'PYSOURCE')],
+ 'python310.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
